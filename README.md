@@ -16,9 +16,13 @@ Climate variables such as temperature, rainfall, and vegetation index
 Data from hundreds of districts over 15+ years, making it perfect for time-series analysis
 
 This dataset is ideal for analyzing:
+
 ✅ Outbreak trends over the years
+
 ✅ Geographical spread of diseases
+
 ✅ Seasonal patterns (month-wise variations)
+
 ✅ Climate-health correlations
 
 🎯 What I Built
